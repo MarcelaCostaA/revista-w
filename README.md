@@ -1,24 +1,18 @@
 # REVISTA W.
 
-## Table of contents
-
 - [REVISTA W.](#revista-w)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Screenshot](#screenshot)
-    - [Link](#link)
+    - [Imagem](#imagem)
+    - [Link GitPage](#link-gitpage)
     - [Construído Com](#construído-com)
 
 
-## Overview
 
-
-### Screenshot
+### Imagem
 
 ![Revista W.](revista-w.png)
 
 
-### Link
+### Link GitPage
 
 - Solution URL: [Revista W.](https://marcelacostaa.github.io/revista-w/)
 
