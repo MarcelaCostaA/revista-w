@@ -1,7 +1,5 @@
 # REVISTA W.
 
-Esta é uma solução para [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). 
-
 ## Table of contents
 
 - [REVISTA W.](#revista-w)
@@ -32,3 +30,6 @@ Esta é uma solução para [News homepage challenge on Frontend Mentor](https://
 - CSS Grid
 - SASS
 - JavaScript
+
+
+Esta é uma solução para [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). 
